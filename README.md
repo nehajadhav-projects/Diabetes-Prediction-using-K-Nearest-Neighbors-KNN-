@@ -40,7 +40,7 @@ You chose k=13 (best test score) and:
 - Printed a classification report to check precision, recall, f1-score.
 
 ## Algorithm & Deployment
-## Algorithm Used:
+#### Algorithm Used:
 ## K-Nearest Neighbors (KNN)
 - It stores all data points.
 - To predict, it finds the 'k' closest data points and chooses the majority class.
