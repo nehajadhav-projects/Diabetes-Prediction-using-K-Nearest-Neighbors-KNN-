@@ -50,16 +50,15 @@ This code is designed for offline or academic use. For real-world deployment, it
 
 ## Result 
 
-## Confusion Matrix Output:
+#### Confusion Matrix Output:
+![result 1](https://github.com/user-attachments/assets/ca26b621-3182-438d-ae15-0fe59fd8ac25)
 
-[[141  16]
- [ 35  39]]
-## This means:
+#### This means:
 - 141 people were correctly predicted as Non-Diabetic.
 - 39 people were correctly predicted as Diabetic.
 - 35 diabetic people were wrongly classified as non-diabetic (False Negatives).
 - 16 non-diabetic were wrongly predicted as diabetic (False Positives).
-## Classification Report:
+#### Classification Report:
 - Accuracy: ~78%
 - Precision for diabetic (1): 0.71
 - Recall for diabetic (1): 0.53
